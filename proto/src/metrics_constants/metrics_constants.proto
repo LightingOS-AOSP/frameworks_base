@@ -7446,6 +7446,6 @@ message MetricsEvent {
     // END OF AOSP CONSTANTS
 
     // LightningOS
-    LIGHTNING = 1000;
+    LIGHTNING = 1751;
   }
 }
